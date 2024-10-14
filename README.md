@@ -10,3 +10,6 @@ This project serves as a static demonstration page for a messaging application. 
 - **Main Section**:
   - **Welcome Screen**: Displays a message instructing users to click the button to start a new chat.
 
+## Preview
+
+![Page preview](assets/img/preview_msg.png)
