@@ -9,3 +9,4 @@ This project serves as a static demonstration page for a messaging application. 
   - **Chat List**: Lists all chats showing the names of the contacts and a preview of the last message.
 - **Main Section**:
   - **Welcome Screen**: Displays a message instructing users to click the button to start a new chat.
+
